@@ -1,0 +1,73 @@
+
+body{
+
+    background-color: #fafafa;
+}
+
+/* ===============================================START FORM======================================= */
+
+
+.log-in{
+  box-sizing: border-box;
+  height: 370px;
+  width:500px;
+  border-radius: 10px;
+  padding: 30px 0 58px;
+
+}
+
+
+input{
+  height: 45px;
+  width: 420px;
+  margin: 5px;
+  position: relative;
+  border-radius: 6px;
+  border: 1px solid rgba(158,158,158, .35);
+
+}
+.card{
+  margin-bottom: 100px;
+border-radius: 2%;
+}
+.sign-in{
+    height: 50px;
+    width: 420px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 0.01px;
+    border-radius: 10px;
+    background-color: #e42a12;
+    margin: 20px 0 20px;
+}
+
+.reset{
+  color: #e42a12;
+  text-decoration: underline;
+  position: relative;
+  margin-top: 15px;
+  margin-right:   320px;
+  font-size: .8rem;
+}
+
+.sign-in-label{
+  text-align: center;
+  margin:  50px;
+  font-weight: bolder;
+  color: #203239;
+}
+
+.label{
+  font-size: .9rem;
+  color:#9E9E9E;
+  margin: 10px 0 0 10px;
+}
+
+.last-q{
+  color: grey;
+}
+.get-started{
+  color: #e42a12;
+text-decoration: underline;
+margin: 20px 5px;
+}
